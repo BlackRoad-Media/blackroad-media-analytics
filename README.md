@@ -1,3 +1,11 @@
+# blackroad-media-analytics
+
+> Media content performance analytics and reporting
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Media](https://github.com/BlackRoad-Media)
+
+---
+
 # BlackRoad Media Analytics
 
 Media content performance analytics and reporting.
